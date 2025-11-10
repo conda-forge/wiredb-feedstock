@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.2"
+  version: "0.7.0"
 
 package:
   name: wiredb
@@ -10,7 +10,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/w/wiredb/wiredb-${{ version }}.tar.gz
-    sha256: a11d6991dd73c5aa70163222285ca307ba0aa8789b448538d156bfa24a785f98
+    sha256: bf5aa35cc28b3e2fdca217d73ea781a9edc49f161026537180feb549c623fe2b
 
 build:
   number: 0
